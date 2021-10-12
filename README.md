@@ -1,5 +1,5 @@
 # Learning Certificates
-Compilation of certifcates I've received for completing different courses.0
+Compilation of certifcates I've received for completing different courses.
 
 ## Udemy
 
