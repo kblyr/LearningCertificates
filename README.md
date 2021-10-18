@@ -25,3 +25,9 @@ The following certificates are earned for completing Udemy courses.
 ### jQuery for Absolute Beginners : From Beginning to Advanced
 
 <img src="udemy/20211017 - jQuery for Absolute Beginners - From Beginning to Advanced.jpg" alt="jQuery for Absolute Beginners : From Beginning to Advanced" />
+
+<br />
+
+### Software Developer - C#/OOP/ASP.NET MVC/MS SQL/SQL Server
+
+<img src="udemy/20211018 - Software Developer - C-SHARP,OOP,ASPNET MVC,MS SQL,SQL Server.jpg" alt="Software Developer - C#/OOP/ASP.NET MVC/MS SQL/SQL Server" />
